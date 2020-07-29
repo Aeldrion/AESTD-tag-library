@@ -1,7 +1,0 @@
-{
-    "description": "All items, including air",
-    "values": [
-        "#aestd1:all_but_air",
-        "minecraft:air"
-    ]
-}

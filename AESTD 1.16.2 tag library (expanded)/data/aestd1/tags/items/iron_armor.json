@@ -1,9 +1,0 @@
-{
-	"description": "Iron armour, not including iron horse armour",
-	"values": [
-		"minecraft:iron_boots",
-		"minecraft:iron_leggings",
-		"minecraft:iron_chestplate",
-		"minecraft:iron_helmet"
-	]
-}
