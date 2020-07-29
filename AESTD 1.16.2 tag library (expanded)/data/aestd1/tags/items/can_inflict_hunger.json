@@ -1,0 +1,7 @@
+{
+	"description": "Consumable items that can inflict hunger to the player upon consumption",
+	"values": [
+		"minecraft:chicken",
+		"minecraft:rotten_flesh"
+	]
+}

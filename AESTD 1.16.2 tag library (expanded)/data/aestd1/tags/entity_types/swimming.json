@@ -1,0 +1,15 @@
+{
+	"description": "Mobs that can swim",
+	"values": [
+		"minecraft:cod",
+		"minecraft:tropical_fish",
+		"minecraft:salmon",
+		"minecraft:pufferfish",
+		
+		"minecraft:dolphin",
+		"minecraft:guardian",
+		"minecraft:elder_guardian",
+		"minecraft:drowned",
+		"minecraft:squid"
+	]
+}

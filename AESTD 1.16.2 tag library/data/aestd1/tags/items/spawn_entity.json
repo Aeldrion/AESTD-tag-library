@@ -1,0 +1,24 @@
+{
+	"description": "All items that spawn an entity when used",
+	"values": [
+		"#aestd1:spawn_eggs",
+		"#aestd1:minecarts",
+
+		"#minecraft:boats",
+		
+		"minecraft:armor_stand",
+		"minecraft:egg",
+		"minecraft:end_crystal",
+		"minecraft:ender_eye",
+		"minecraft:ender_pearl",
+		"minecraft:experience_bottle",
+		"minecraft:firework_rocket",
+		"minecraft:item_frame",
+		"minecraft:lead",
+		"minecraft:lingering_potion",
+		"minecraft:painting",
+		"minecraft:snowball",
+		"minecraft:splash_potion",
+		"minecraft:trident"
+	]
+}

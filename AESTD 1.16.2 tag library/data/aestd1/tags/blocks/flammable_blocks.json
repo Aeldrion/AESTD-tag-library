@@ -1,0 +1,17 @@
+{
+	"description": "Blocks that can catch fire and go up in flames",
+	"values": [
+		"#aestd1:flammable_wood",
+		"#aestd1:plants",
+		"#minecraft:carpets",
+		"#minecraft:leaves",
+		"#minecraft:wool",
+		
+		"minecraft:coal_block",
+		"minecraft:bookshelf",
+		"minecraft:target",
+		"minecraft:tnt",
+		"minecraft:vine",
+		"minecraft:hay_block"
+	]
+}

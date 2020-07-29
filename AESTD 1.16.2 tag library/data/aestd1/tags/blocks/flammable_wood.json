@@ -1,0 +1,12 @@
+{
+	"description": "All wood blocks (logs, stripped logs, wood, stripped wood, planks, slabs, fences, fence gates, signs and stairs) built from overworld trees, not to be confused with wood (bark) blocks only",
+	"values": [
+		"#aestd1:flammable_planks",
+		"#aestd1:flammable_slabs",
+		"#aestd1:flammable_fence_gates",
+		"#aestd1:flammable_fences",
+		"#aestd1:flammable_signs",
+		"#aestd1:flammable_stairs",
+		"#minecraft:logs_that_burn"
+	]
+}

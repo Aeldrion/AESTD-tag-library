@@ -1,0 +1,9 @@
+{
+	"description": "Zombie-type mobs, not including zombified piglins",
+	"values": [
+		"minecraft:drowned",
+		"minecraft:zombie",
+		"minecraft:husk",
+		"minecraft:zombie_villager"
+	]
+}

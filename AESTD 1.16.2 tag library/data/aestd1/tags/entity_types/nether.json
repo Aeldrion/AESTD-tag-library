@@ -1,0 +1,16 @@
+{
+	"description": "All mobs that can spawn on its own in the Nether, including skeletons and endermen",
+	"values": [
+		"minecraft:ghast",
+		"minecraft:magma_cube",
+		"minecraft:wither_skeleton",
+		"minecraft:skeleton",
+		"minecraft:zombified_piglin",
+		"minecraft:piglin",
+		"minecraft:piglin_brute",
+		"minecraft:hoglin",
+		"minecraft:blaze",
+		"minecraft:strider",
+		"minecraft:enderman"
+	]
+}

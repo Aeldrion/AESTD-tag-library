@@ -1,0 +1,11 @@
+{
+	"description": "Pressure plates",
+	"values": [
+		"#minecraft:wooden_pressure_plates",
+		
+		"minecraft:polished_blackstone_pressure_plate",
+		"minecraft:stone_pressure_plate",
+		"minecraft:heavy_weighted_pressure_plate",
+		"minecraft:light_weighted_pressure_plate"
+	]
+}

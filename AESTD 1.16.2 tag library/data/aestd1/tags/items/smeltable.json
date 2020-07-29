@@ -1,0 +1,34 @@
+{
+	"description": "Items that can be cooked into another in a furnace if no smelting recipes are added or removed",
+	"values": [
+		"#aestd1:iron_armor",
+		"#aestd1:iron_tools",
+		"#aestd1:golden_armor",
+		"#aestd1:golden_tools",
+		"#aestd1:ores",
+		"#aestd1:raw_food",
+		"#aestd1:terracotta",
+
+		"#minecraft:logs_that_burn",
+		
+		"minecraft:ancient_debris",
+		"minecraft:cactus",
+		"minecraft:clay",
+		"minecraft:clay_ball",
+		"minecraft:cobblestone",
+		"minecraft:chorus_fruit",
+		"minecraft:golden_horse_armor",
+		"minecraft:golden_sword",
+		"minecraft:iron_horse_armor",
+		"minecraft:iron_sword",
+		"minecraft:kelp",
+		"minecraft:netherrack",
+		"minecraft:nether_bricks",
+		"minecraft:red_sand",
+		"minecraft:sand",
+		"minecraft:sea_pickle",
+		"minecraft:stone",
+		"minecraft:stone_bricks",
+		"minecraft:wet_sponge"
+	]
+}

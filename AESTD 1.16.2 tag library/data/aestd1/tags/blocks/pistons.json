@@ -1,0 +1,8 @@
+{
+	"description": "Blocks that comprise pistons, sticky or not",
+	"values": [
+		"minecraft:piston",
+		"minecraft:sticky_piston",
+		"minecraft:piston_head"
+	]
+}

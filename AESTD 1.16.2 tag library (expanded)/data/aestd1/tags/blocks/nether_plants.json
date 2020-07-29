@@ -1,0 +1,15 @@
+{
+	"description": "Plants that generate in the Nether, i.e. fungi, roots, sprouts and vines",
+	"values": [
+		"minecraft:warped_fungus",
+		"minecraft:crimson_fungus",
+
+		"minecraft:crimson_roots",
+		"minecraft:warped_roots",
+
+		"minecraft:twisting_vines",
+		"minecraft:weeping_vines",
+		
+		"minecraft:nether_sprouts"
+	]
+}

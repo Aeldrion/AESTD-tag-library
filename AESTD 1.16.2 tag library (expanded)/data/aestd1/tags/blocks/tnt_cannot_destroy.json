@@ -1,0 +1,34 @@
+{
+	"description": "Blocks that cannot be reasonably broken by TNT. Limit arbitrarily set at 100",
+	"values":[
+		"minecraft:barrier",
+		"minecraft:bedrock",
+
+		"minecraft:command_block",
+		"minecraft:chain_command_block",
+		"minecraft:repeating_command_block",
+		
+		"minecraft:end_gateway",
+		"minecraft:end_portal",
+		"minecraft:end_portal_frame",
+		"minecraft:nether_portal",
+		"minecraft:structure_block",
+
+		"minecraft:water",
+		"minecraft:bubble_column",
+		"minecraft:lava",
+
+		"minecraft:obsidian",
+		"minecraft:crying_obsidian",
+		
+		"minecraft:anvil",
+		"minecraft:chipped_anvil",
+		"minecraft:damaged_anvil",
+
+		"minecraft:ancient_debris",
+		"minecraft:enchanting_table",
+		"minecraft:ender_chest",
+		"minecraft:netherite_block",
+		"minecraft:respawn_anchor"
+	]
+}

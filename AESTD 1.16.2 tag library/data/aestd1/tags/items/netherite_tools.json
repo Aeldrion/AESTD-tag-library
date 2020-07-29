@@ -1,0 +1,9 @@
+{
+	"description": "Nether tools, not include nether swords",
+	"values": [
+		"minecraft:netherite_axe",
+		"minecraft:netherite_hoe",
+		"minecraft:netherite_pickaxe",
+		"minecraft:netherite_shovel"
+	]
+}

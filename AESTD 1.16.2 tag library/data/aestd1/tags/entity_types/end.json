@@ -1,0 +1,9 @@
+{
+	"description": "Mobs that can spawn in the end",
+	"values": [
+		"minecraft:enderman",
+		"minecraft:ender_dragon",
+		"minecraft:endermite",
+		"minecraft:shulker"
+	]
+}

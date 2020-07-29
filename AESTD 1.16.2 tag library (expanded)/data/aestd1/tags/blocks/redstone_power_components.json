@@ -1,0 +1,37 @@
+{
+	"description": "Blocks that can power a line of redstone, not including redstone dust itself",
+	"values": [
+		"minecraft:oak_pressure_plate",
+		"minecraft:birch_pressure_plate",
+		"minecraft:spruce_pressure_plate",
+		"minecraft:dark_oak_pressure_plate",
+		"minecraft:acacia_pressure_plate",
+		"minecraft:jungle_pressure_plate",
+		
+		"minecraft:polished_blackstone_pressure_plate",
+		"minecraft:stone_pressure_plate",
+		"minecraft:heavy_weighted_pressure_plate",
+		"minecraft:light_weighted_pressure_plate",
+
+		"minecraft:oak_button",
+		"minecraft:birch_button",
+		"minecraft:spruce_button",
+		"minecraft:dark_oak_button",
+		"minecraft:acacia_button",
+		"minecraft:jungle_button",
+		
+		"minecraft:stone_button",
+		"minecraft:polished_blackstone_button",
+
+		"minecraft:daylight_detector",
+		"minecraft:detector_rail",
+		"minecraft:lever",
+		"minecraft:observer",
+		"minecraft:redstone_block",
+		"minecraft:redstone_torch",
+		"minecraft:target",
+		"minecraft:trapped_chest",
+		"minecraft:tripwire_hook",
+		"minecraft:redstone_wall_torch"
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"description": "Blocks that always emit light",
+	"values": [
+		"minecraft:beacon",
+		"minecraft:brewing_stand",
+		"minecraft:brown_mushroom",
+		"minecraft:conduit",
+		"minecraft:crying_obsidian",
+		"minecraft:dragon_egg",
+		"minecraft:end_gateway",
+		"minecraft:end_portal",
+		"minecraft:end_portal_frame",
+		"minecraft:end_rod",
+		"minecraft:ender_chest",
+		"minecraft:fire",
+		"minecraft:glowstone",
+		"minecraft:jack_o_lantern",
+		"minecraft:lantern",
+		"minecraft:lava",
+		"minecraft:magma_block",
+		"minecraft:nether_portal",
+		"minecraft:respawn_anchor",
+		"minecraft:sea_lantern",
+		"minecraft:sea_pickle",
+		"minecraft:shroomlight",
+		"minecraft:soul_fire",
+		"minecraft:soul_lantern",
+		"minecraft:soul_torch",
+		"minecraft:soul_wall_torch",
+		"minecraft:torch",
+		"minecraft:wall_torch"
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"description": "Wearable items that grant extra armour",
+	"values": [
+		"minecraft:chainmail_boots",
+		"minecraft:chainmail_leggings",
+		"minecraft:chainmail_chestplate",
+		"minecraft:chainmail_helmet",
+
+		"minecraft:diamond_boots",
+		"minecraft:diamond_leggings",
+		"minecraft:diamond_chestplate",
+		"minecraft:diamond_helmet",
+
+		"minecraft:golden_boots",
+		"minecraft:golden_leggings",
+		"minecraft:golden_chestplate",
+		"minecraft:golden_helmet",
+
+		"minecraft:iron_boots",
+		"minecraft:iron_leggings",
+		"minecraft:iron_chestplate",
+		"minecraft:iron_helmet",
+
+		"minecraft:leather_boots",
+		"minecraft:leather_leggings",
+		"minecraft:leather_chestplate",
+		"minecraft:leather_helmet",
+
+		"minecraft:netherite_boots",
+		"minecraft:netherite_leggings",
+		"minecraft:netherite_chestplate",
+		"minecraft:netherite_helmet"
+	]
+}

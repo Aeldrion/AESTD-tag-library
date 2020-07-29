@@ -1,0 +1,11 @@
+{
+	"description": "Minecarts and variants",
+	"values": [
+		"minecraft:minecart",
+		"minecraft:chest_minecart",
+		"minecraft:furnace_minecart",
+		"minecraft:hopper_minecart",
+		"minecraft:tnt_minecart",
+		"minecraft:command_block_minecart"
+	]
+}

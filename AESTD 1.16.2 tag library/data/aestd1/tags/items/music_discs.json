@@ -1,0 +1,7 @@
+{
+	"description": "Music discs that can be used in jukeboxes, therefore including Pigstep even though it is not dropped by creepers",
+	"values": [
+		"#minecraft:creeper_drop_music_discs",
+		"minecraft:music_disc_pigstep"
+	]
+}

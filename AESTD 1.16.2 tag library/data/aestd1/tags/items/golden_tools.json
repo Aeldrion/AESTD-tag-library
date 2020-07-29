@@ -1,0 +1,9 @@
+{
+	"description": "Golden tools, not including golden swords",
+	"values": [
+		"minecraft:golden_axe",
+		"minecraft:golden_hoe",
+		"minecraft:golden_pickaxe",
+		"minecraft:golden_shovel"
+	]
+}

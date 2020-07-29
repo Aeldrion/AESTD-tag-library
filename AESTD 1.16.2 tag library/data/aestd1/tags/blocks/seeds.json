@@ -1,0 +1,12 @@
+{
+	"description": "Seeds that can be planted on farmland or soul sand/soul soil",
+	"values": [
+		"minecraft:wheat",
+		"minecraft:carrots",
+		"minecraft:potatoes",
+		"minecraft:beetroots",
+		"minecraft:pumpkin_stem",
+		"minecraft:melon_stem",
+		"minecraft:nether_wart"
+	]
+}
