@@ -38,6 +38,7 @@
 		"minecraft:creeper_head",
 		"minecraft:dragon_head",
 		
-		"minecraft:elytra"
+		"minecraft:elytra",
+		"minecraft:carved_pumpkin"
 	]
 }
