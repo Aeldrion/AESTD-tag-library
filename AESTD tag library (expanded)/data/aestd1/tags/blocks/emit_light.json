@@ -1,33 +1,117 @@
 {
 	"description": "Blocks that always emit light",
 	"values": [
-		"minecraft:beacon",
-		"minecraft:brewing_stand",
-		"minecraft:brown_mushroom",
-		"minecraft:conduit",
-		"minecraft:crying_obsidian",
-		"minecraft:dragon_egg",
-		"minecraft:end_gateway",
-		"minecraft:end_portal",
-		"minecraft:end_portal_frame",
-		"minecraft:end_rod",
-		"minecraft:ender_chest",
-		"minecraft:fire",
-		"minecraft:glowstone",
-		"minecraft:jack_o_lantern",
-		"minecraft:lantern",
-		"minecraft:lava",
-		"minecraft:magma_block",
-		"minecraft:nether_portal",
-		"minecraft:respawn_anchor",
-		"minecraft:sea_lantern",
-		"minecraft:sea_pickle",
-		"minecraft:shroomlight",
-		"minecraft:soul_fire",
-		"minecraft:soul_lantern",
-		"minecraft:soul_torch",
-		"minecraft:soul_wall_torch",
-		"minecraft:torch",
-		"minecraft:wall_torch"
+		{
+			"id": "minecraft:beacon",
+			"required": false
+		},
+		{
+			"id": "minecraft:brewing_stand",
+			"required": false
+		},
+		{
+			"id": "minecraft:brown_mushroom",
+			"required": false
+		},
+		{
+			"id": "minecraft:conduit",
+			"required": false
+		},
+		{
+			"id": "minecraft:crying_obsidian",
+			"required": false
+		},
+		{
+			"id": "minecraft:dragon_egg",
+			"required": false
+		},
+		{
+			"id": "minecraft:end_gateway",
+			"required": false
+		},
+		{
+			"id": "minecraft:end_portal",
+			"required": false
+		},
+		{
+			"id": "minecraft:end_portal_frame",
+			"required": false
+		},
+		{
+			"id": "minecraft:end_rod",
+			"required": false
+		},
+		{
+			"id": "minecraft:ender_chest",
+			"required": false
+		},
+		{
+			"id": "minecraft:fire",
+			"required": false
+		},
+		{
+			"id": "minecraft:glowstone",
+			"required": false
+		},
+		{
+			"id": "minecraft:jack_o_lantern",
+			"required": false
+		},
+		{
+			"id": "minecraft:lantern",
+			"required": false
+		},
+		{
+			"id": "minecraft:lava",
+			"required": false
+		},
+		{
+			"id": "minecraft:magma_block",
+			"required": false
+		},
+		{
+			"id": "minecraft:nether_portal",
+			"required": false
+		},
+		{
+			"id": "minecraft:respawn_anchor",
+			"required": false
+		},
+		{
+			"id": "minecraft:sea_lantern",
+			"required": false
+		},
+		{
+			"id": "minecraft:sea_pickle",
+			"required": false
+		},
+		{
+			"id": "minecraft:shroomlight",
+			"required": false
+		},
+		{
+			"id": "minecraft:soul_fire",
+			"required": false
+		},
+		{
+			"id": "minecraft:soul_lantern",
+			"required": false
+		},
+		{
+			"id": "minecraft:soul_torch",
+			"required": false
+		},
+		{
+			"id": "minecraft:soul_wall_torch",
+			"required": false
+		},
+		{
+			"id": "minecraft:torch",
+			"required": false
+		},
+		{
+			"id": "minecraft:wall_torch",
+			"required": false
+		}
 	]
 }

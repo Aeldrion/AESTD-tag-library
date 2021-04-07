@@ -1,11 +1,29 @@
 {
 	"description": "Mobs that can swim",
 	"values": [
-		"#aestd1:fishes",
-		"minecraft:dolphin",
-		"minecraft:guardian",
-		"minecraft:elder_guardian",
-		"minecraft:drowned",
-		"minecraft:squid"
+		{
+			"id": "#aestd1:fishes",
+			"required": false
+		},
+		{
+			"id": "minecraft:dolphin",
+			"required": false
+		},
+		{
+			"id": "minecraft:guardian",
+			"required": false
+		},
+		{
+			"id": "minecraft:elder_guardian",
+			"required": false
+		},
+		{
+			"id": "minecraft:drowned",
+			"required": false
+		},
+		{
+			"id": "minecraft:squid",
+			"required": false
+		}
 	]
 }

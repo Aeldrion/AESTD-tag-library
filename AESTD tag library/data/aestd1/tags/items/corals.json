@@ -1,7 +1,13 @@
 {
 	"description": "Coral fans and coral plants, not including dead variants, same as the #minecraft:corals block tag",
 	"values": [
-		"#aestd1:coral_plants",
-		"#aestd1:coral_fans"
+		{
+			"id": "#aestd1:coral_plants",
+			"required": false
+		},
+		{
+			"id": "#aestd1:coral_fans",
+			"required": false
+		}
 	]
 }

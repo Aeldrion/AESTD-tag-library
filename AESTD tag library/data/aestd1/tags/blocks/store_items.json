@@ -1,17 +1,45 @@
 {
 	"description": "Block entities that can store items, not including enchanting tables",
 	"values": [
-		"#aestd1:furnaces",
-		
-		"#minecraft:shulker_boxes",
-		"#minecraft:campfires",
-
-		"minecraft:chest",
-		"minecraft:trapped_chest",
-		"minecraft:dispenser",
-		"minecraft:dropper",
-		"minecraft:jukebox",
-		"minecraft:barrel",
-		"minecraft:lectern"
+		{
+			"id": "#aestd1:furnaces",
+			"required": false
+		},
+		{
+			"id": "#minecraft:shulker_boxes",
+			"required": false
+		},
+		{
+			"id": "#minecraft:campfires",
+			"required": false
+		},
+		{
+			"id": "minecraft:chest",
+			"required": false
+		},
+		{
+			"id": "minecraft:trapped_chest",
+			"required": false
+		},
+		{
+			"id": "minecraft:dispenser",
+			"required": false
+		},
+		{
+			"id": "minecraft:dropper",
+			"required": false
+		},
+		{
+			"id": "minecraft:jukebox",
+			"required": false
+		},
+		{
+			"id": "minecraft:barrel",
+			"required": false
+		},
+		{
+			"id": "minecraft:lectern",
+			"required": false
+		}
 	]
 }

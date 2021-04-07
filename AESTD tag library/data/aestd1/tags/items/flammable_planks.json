@@ -1,11 +1,29 @@
 {
 	"description": "Planks that can burn (i.e. planks built from overworld trees)",
 	"values": [
-		"minecraft:acacia_planks",
-		"minecraft:birch_planks",
-		"minecraft:dark_oak_planks",
-		"minecraft:jungle_planks",
-		"minecraft:oak_planks",
-		"minecraft:spruce_planks"
+		{
+			"id": "minecraft:acacia_planks",
+			"required": false
+		},
+		{
+			"id": "minecraft:birch_planks",
+			"required": false
+		},
+		{
+			"id": "minecraft:dark_oak_planks",
+			"required": false
+		},
+		{
+			"id": "minecraft:jungle_planks",
+			"required": false
+		},
+		{
+			"id": "minecraft:oak_planks",
+			"required": false
+		},
+		{
+			"id": "minecraft:spruce_planks",
+			"required": false
+		}
 	]
 }

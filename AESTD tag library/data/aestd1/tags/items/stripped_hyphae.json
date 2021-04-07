@@ -1,7 +1,13 @@
 {
 	"description": "Stripped hyphae",
 	"values": [
-		"minecraft:stripped_crimson_hyphae",
-		"minecraft:stripped_warped_hyphae"
+		{
+			"id": "minecraft:stripped_crimson_hyphae",
+			"required": false
+		},
+		{
+			"id": "minecraft:stripped_warped_hyphae",
+			"required": false
+		}
 	]
 }

@@ -1,17 +1,45 @@
 {
 	"description": "Block pistons cannot push, not including pistons, and not including blocks that are broken when pushed or blocks that cannot be pushed indirectly with slime blocks",
 	"values": [
-		"#aestd1:unbreakable",
-		"#aestd1:store_items",
-		"#aestd1:store_entities",
-		"#aestd1:obsidian",
-
-		"#minecraft:signs",
-
-		"minecraft:beacon",
-		"minecraft:daylight_detector",
-		"minecraft:enchanting_table",
-		"minecraft:ender_chest",
-		"minecraft:lodestone"
+		{
+			"id": "#aestd1:unbreakable",
+			"required": false
+		},
+		{
+			"id": "#aestd1:store_items",
+			"required": false
+		},
+		{
+			"id": "#aestd1:store_entities",
+			"required": false
+		},
+		{
+			"id": "#aestd1:obsidian",
+			"required": false
+		},
+		{
+			"id": "#minecraft:signs",
+			"required": false
+		},
+		{
+			"id": "minecraft:beacon",
+			"required": false
+		},
+		{
+			"id": "minecraft:daylight_detector",
+			"required": false
+		},
+		{
+			"id": "minecraft:enchanting_table",
+			"required": false
+		},
+		{
+			"id": "minecraft:ender_chest",
+			"required": false
+		},
+		{
+			"id": "minecraft:lodestone",
+			"required": false
+		}
 	]
 }

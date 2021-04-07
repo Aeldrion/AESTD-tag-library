@@ -1,43 +1,149 @@
 {
 	"description": "Transparent blocks whose models support translucency",
 	"values": [
-		"minecraft:white_stained_glass",
-		"minecraft:orange_stained_glass",
-		"minecraft:magenta_stained_glass",
-		"minecraft:light_blue_stained_glass",
-		"minecraft:yellow_stained_glass",
-		"minecraft:lime_stained_glass",
-		"minecraft:pink_stained_glass",
-		"minecraft:gray_stained_glass",
-		"minecraft:light_gray_stained_glass",
-		"minecraft:cyan_stained_glass",
-		"minecraft:purple_stained_glass",
-		"minecraft:blue_stained_glass",
-		"minecraft:brown_stained_glass",
-		"minecraft:green_stained_glass",
-		"minecraft:red_stained_glass",
-		"minecraft:black_stained_glass",
-		"minecraft:glass",
-
-		"minecraft:white_stained_glass_pane",
-		"minecraft:orange_stained_glass_pane",
-		"minecraft:magenta_stained_glass_pane",
-		"minecraft:light_blue_stained_glass_pane",
-		"minecraft:yellow_stained_glass_pane",
-		"minecraft:lime_stained_glass_pane",
-		"minecraft:pink_stained_glass_pane",
-		"minecraft:gray_stained_glass_pane",
-		"minecraft:light_gray_stained_glass_pane",
-		"minecraft:cyan_stained_glass_pane",
-		"minecraft:purple_stained_glass_pane",
-		"minecraft:blue_stained_glass_pane",
-		"minecraft:brown_stained_glass_pane",
-		"minecraft:green_stained_glass_pane",
-		"minecraft:red_stained_glass_pane",
-		"minecraft:black_stained_glass_pane",
-		"minecraft:glass_pane",
-		
-		"minecraft:tripwire",
-		"minecraft:nether_portal"
+		{
+			"id": "minecraft:white_stained_glass",
+			"required": false
+		},
+		{
+			"id": "minecraft:orange_stained_glass",
+			"required": false
+		},
+		{
+			"id": "minecraft:magenta_stained_glass",
+			"required": false
+		},
+		{
+			"id": "minecraft:light_blue_stained_glass",
+			"required": false
+		},
+		{
+			"id": "minecraft:yellow_stained_glass",
+			"required": false
+		},
+		{
+			"id": "minecraft:lime_stained_glass",
+			"required": false
+		},
+		{
+			"id": "minecraft:pink_stained_glass",
+			"required": false
+		},
+		{
+			"id": "minecraft:gray_stained_glass",
+			"required": false
+		},
+		{
+			"id": "minecraft:light_gray_stained_glass",
+			"required": false
+		},
+		{
+			"id": "minecraft:cyan_stained_glass",
+			"required": false
+		},
+		{
+			"id": "minecraft:purple_stained_glass",
+			"required": false
+		},
+		{
+			"id": "minecraft:blue_stained_glass",
+			"required": false
+		},
+		{
+			"id": "minecraft:brown_stained_glass",
+			"required": false
+		},
+		{
+			"id": "minecraft:green_stained_glass",
+			"required": false
+		},
+		{
+			"id": "minecraft:red_stained_glass",
+			"required": false
+		},
+		{
+			"id": "minecraft:black_stained_glass",
+			"required": false
+		},
+		{
+			"id": "minecraft:glass",
+			"required": false
+		},
+		{
+			"id": "minecraft:white_stained_glass_pane",
+			"required": false
+		},
+		{
+			"id": "minecraft:orange_stained_glass_pane",
+			"required": false
+		},
+		{
+			"id": "minecraft:magenta_stained_glass_pane",
+			"required": false
+		},
+		{
+			"id": "minecraft:light_blue_stained_glass_pane",
+			"required": false
+		},
+		{
+			"id": "minecraft:yellow_stained_glass_pane",
+			"required": false
+		},
+		{
+			"id": "minecraft:lime_stained_glass_pane",
+			"required": false
+		},
+		{
+			"id": "minecraft:pink_stained_glass_pane",
+			"required": false
+		},
+		{
+			"id": "minecraft:gray_stained_glass_pane",
+			"required": false
+		},
+		{
+			"id": "minecraft:light_gray_stained_glass_pane",
+			"required": false
+		},
+		{
+			"id": "minecraft:cyan_stained_glass_pane",
+			"required": false
+		},
+		{
+			"id": "minecraft:purple_stained_glass_pane",
+			"required": false
+		},
+		{
+			"id": "minecraft:blue_stained_glass_pane",
+			"required": false
+		},
+		{
+			"id": "minecraft:brown_stained_glass_pane",
+			"required": false
+		},
+		{
+			"id": "minecraft:green_stained_glass_pane",
+			"required": false
+		},
+		{
+			"id": "minecraft:red_stained_glass_pane",
+			"required": false
+		},
+		{
+			"id": "minecraft:black_stained_glass_pane",
+			"required": false
+		},
+		{
+			"id": "minecraft:glass_pane",
+			"required": false
+		},
+		{
+			"id": "minecraft:tripwire",
+			"required": false
+		},
+		{
+			"id": "minecraft:nether_portal",
+			"required": false
+		}
 	]
 }

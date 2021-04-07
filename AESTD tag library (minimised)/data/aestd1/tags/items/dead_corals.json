@@ -1,1 +1,1 @@
-{"description":"Dead coral fans and plants, not including dead coral blocks","values":["#aestd1:dead_coral_fans","#aestd1:dead_coral_plants"]}
+{"description":"Dead coral fans and plants, not including dead coral blocks","values":[{"id":"#aestd1:dead_coral_fans","required":false},{"id":"#aestd1:dead_coral_plants","required":false}]}

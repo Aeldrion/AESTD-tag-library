@@ -1,14 +1,37 @@
 {
 	"description": "Stripped logs and stems, not including stripped wood (bark) blocks and stripped hyphae",
 	"values": [
-		"minecraft:stripped_oak_log",
-		"minecraft:stripped_birch_log",
-		"minecraft:stripped_spruce_log",
-		"minecraft:stripped_dark_oak_log",
-		"minecraft:stripped_acacia_log",
-		"minecraft:stripped_jungle_log",
-		
-		"minecraft:stripped_crimson_stem",
-		"minecraft:stripped_warped_stem"
+		{
+			"id": "minecraft:stripped_oak_log",
+			"required": false
+		},
+		{
+			"id": "minecraft:stripped_birch_log",
+			"required": false
+		},
+		{
+			"id": "minecraft:stripped_spruce_log",
+			"required": false
+		},
+		{
+			"id": "minecraft:stripped_dark_oak_log",
+			"required": false
+		},
+		{
+			"id": "minecraft:stripped_acacia_log",
+			"required": false
+		},
+		{
+			"id": "minecraft:stripped_jungle_log",
+			"required": false
+		},
+		{
+			"id": "minecraft:stripped_crimson_stem",
+			"required": false
+		},
+		{
+			"id": "minecraft:stripped_warped_stem",
+			"required": false
+		}
 	]
 }

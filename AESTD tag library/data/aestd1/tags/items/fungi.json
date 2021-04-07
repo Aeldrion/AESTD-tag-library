@@ -1,7 +1,13 @@
 {
 	"description": "Warped and crimson fungus",
 	"values": [
-		"minecraft:warped_fungus",
-		"minecraft:crimson_fungus"
+		{
+			"id": "minecraft:warped_fungus",
+			"required": false
+		},
+		{
+			"id": "minecraft:crimson_fungus",
+			"required": false
+		}
 	]
 }

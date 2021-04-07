@@ -1,1 +1,1 @@
-{"description":"All blocks in the vanilla game, except air blocks, for use in CanBreak/CanPlaceOn or /fill replace for example","values":["#aestd1:cubic","#aestd1:noncubic"]}
+{"description":"All blocks in the vanilla game, except air blocks, for use in CanBreak/CanPlaceOn or /fill replace for example","values":[{"id":"#aestd1:cubic","required":false},{"id":"#aestd1:noncubic","required":false}]}

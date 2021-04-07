@@ -1,13 +1,37 @@
 {
 	"description": "Foodstuffs that can be cooked into another in a furnace",
 	"values": [
-		"minecraft:beef",
-		"minecraft:chicken",
-		"minecraft:cod",
-		"minecraft:mutton",
-		"minecraft:salmon",
-		"minecraft:porkchop",
-		"minecraft:potato",
-		"minecraft:rabbit"
+		{
+			"id": "minecraft:beef",
+			"required": false
+		},
+		{
+			"id": "minecraft:chicken",
+			"required": false
+		},
+		{
+			"id": "minecraft:cod",
+			"required": false
+		},
+		{
+			"id": "minecraft:mutton",
+			"required": false
+		},
+		{
+			"id": "minecraft:salmon",
+			"required": false
+		},
+		{
+			"id": "minecraft:porkchop",
+			"required": false
+		},
+		{
+			"id": "minecraft:potato",
+			"required": false
+		},
+		{
+			"id": "minecraft:rabbit",
+			"required": false
+		}
 	]
 }

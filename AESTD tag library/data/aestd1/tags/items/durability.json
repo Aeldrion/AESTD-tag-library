@@ -1,17 +1,49 @@
 {
 	"description": "Items that support damage and can have a durability bar",
 	"values": [
-		"#aestd1:armor",
-		"#aestd1:axes",
-		"#aestd1:pickaxes",
-		"#aestd1:shovels",
-		"#aestd1:swords",
-		"#aestd1:food_on_a_stick",
-
-		"minecraft:elytra",
-		"minecraft:fishing_rod",
-		"minecraft:flint_and_steel",
-		"minecraft:shears",
-		"minecraft:trident"
+		{
+			"id": "#aestd1:armor",
+			"required": false
+		},
+		{
+			"id": "#aestd1:axes",
+			"required": false
+		},
+		{
+			"id": "#aestd1:pickaxes",
+			"required": false
+		},
+		{
+			"id": "#aestd1:shovels",
+			"required": false
+		},
+		{
+			"id": "#aestd1:swords",
+			"required": false
+		},
+		{
+			"id": "#aestd1:food_on_a_stick",
+			"required": false
+		},
+		{
+			"id": "minecraft:elytra",
+			"required": false
+		},
+		{
+			"id": "minecraft:fishing_rod",
+			"required": false
+		},
+		{
+			"id": "minecraft:flint_and_steel",
+			"required": false
+		},
+		{
+			"id": "minecraft:shears",
+			"required": false
+		},
+		{
+			"id": "minecraft:trident",
+			"required": false
+		}
 	]
 }

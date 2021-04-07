@@ -1,1 +1,1 @@
-{"description":"Block entities that can cook an item with a fuel, therefore not including campfires","values":["minecraft:furnace","minecraft:smoker","minecraft:blast_furnace"]}
+{"description":"Block entities that can cook an item with a fuel, therefore not including campfires","values":[{"id":"minecraft:furnace","required":false},{"id":"minecraft:smoker","required":false},{"id":"minecraft:blast_furnace","required":false}]}

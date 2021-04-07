@@ -1,11 +1,29 @@
 {
 	"description": "Pickaxes",
 	"values": [
-		"minecraft:wooden_pickaxe",
-		"minecraft:stone_pickaxe",
-		"minecraft:iron_pickaxe",
-		"minecraft:golden_pickaxe",
-		"minecraft:diamond_pickaxe",
-		"minecraft:netherite_pickaxe"
+		{
+			"id": "minecraft:wooden_pickaxe",
+			"required": false
+		},
+		{
+			"id": "minecraft:stone_pickaxe",
+			"required": false
+		},
+		{
+			"id": "minecraft:iron_pickaxe",
+			"required": false
+		},
+		{
+			"id": "minecraft:golden_pickaxe",
+			"required": false
+		},
+		{
+			"id": "minecraft:diamond_pickaxe",
+			"required": false
+		},
+		{
+			"id": "minecraft:netherite_pickaxe",
+			"required": false
+		}
 	]
 }

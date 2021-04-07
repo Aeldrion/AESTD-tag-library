@@ -1,9 +1,21 @@
 {
 	"description": "Items derived from end stone bricks",
 	"values": [
-		"minecraft:end_stone_bricks",
-		"minecraft:end_stone_brick_stairs",
-		"minecraft:end_stone_brick_slab",
-		"minecraft:end_stone_brick_wall"
+		{
+			"id": "minecraft:end_stone_bricks",
+			"required": false
+		},
+		{
+			"id": "minecraft:end_stone_brick_stairs",
+			"required": false
+		},
+		{
+			"id": "minecraft:end_stone_brick_slab",
+			"required": false
+		},
+		{
+			"id": "minecraft:end_stone_brick_wall",
+			"required": false
+		}
 	]
 }

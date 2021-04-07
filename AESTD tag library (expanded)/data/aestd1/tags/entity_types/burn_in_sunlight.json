@@ -1,14 +1,33 @@
 {
 	"description": "Mobs that burn when in sunlight",
 	"values": [
-		"minecraft:drowned",
-		"minecraft:zombie",
-		"minecraft:husk",
-		"minecraft:zombie_villager",
-
-		"minecraft:skeleton",
-		"minecraft:stray",
-		
-		"minecraft:phantom"
+		{
+			"id": "minecraft:drowned",
+			"required": false
+		},
+		{
+			"id": "minecraft:zombie",
+			"required": false
+		},
+		{
+			"id": "minecraft:husk",
+			"required": false
+		},
+		{
+			"id": "minecraft:zombie_villager",
+			"required": false
+		},
+		{
+			"id": "minecraft:skeleton",
+			"required": false
+		},
+		{
+			"id": "minecraft:stray",
+			"required": false
+		},
+		{
+			"id": "minecraft:phantom",
+			"required": false
+		}
 	]
 }

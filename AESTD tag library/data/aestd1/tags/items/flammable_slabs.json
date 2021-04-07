@@ -1,11 +1,29 @@
 {
 	"description": "Slabs that can burn (i.e. wooden slabs built from overworld trees)",
 	"values": [
-		"minecraft:acacia_slab",
-		"minecraft:birch_slab",
-		"minecraft:dark_oak_slab",
-		"minecraft:jungle_slab",
-		"minecraft:oak_slab",
-		"minecraft:spruce_slab"
+		{
+			"id": "minecraft:acacia_slab",
+			"required": false
+		},
+		{
+			"id": "minecraft:birch_slab",
+			"required": false
+		},
+		{
+			"id": "minecraft:dark_oak_slab",
+			"required": false
+		},
+		{
+			"id": "minecraft:jungle_slab",
+			"required": false
+		},
+		{
+			"id": "minecraft:oak_slab",
+			"required": false
+		},
+		{
+			"id": "minecraft:spruce_slab",
+			"required": false
+		}
 	]
 }

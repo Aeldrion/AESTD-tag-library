@@ -1,1 +1,1 @@
-{"description":"Leggings","values":["minecraft:leather_leggings","minecraft:golden_leggings","minecraft:chainmail_leggings","minecraft:iron_leggings","minecraft:diamond_leggings","minecraft:netherite_leggings"]}
+{"description":"Leggings","values":[{"id":"minecraft:leather_leggings","required":false},{"id":"minecraft:golden_leggings","required":false},{"id":"minecraft:chainmail_leggings","required":false},{"id":"minecraft:iron_leggings","required":false},{"id":"minecraft:diamond_leggings","required":false},{"id":"minecraft:netherite_leggings","required":false}]}

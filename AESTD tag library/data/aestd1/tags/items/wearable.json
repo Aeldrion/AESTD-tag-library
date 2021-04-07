@@ -1,9 +1,21 @@
 {
 	"description": "Everything that can be inserted in an armour slot",
 	"values": [
-		"#aestd1:armor",
-		"#aestd1:heads",
-		"minecraft:elytra",
-		"minecraft:carved_pumpkin"
+		{
+			"id": "#aestd1:armor",
+			"required": false
+		},
+		{
+			"id": "#aestd1:heads",
+			"required": false
+		},
+		{
+			"id": "minecraft:elytra",
+			"required": false
+		},
+		{
+			"id": "minecraft:carved_pumpkin",
+			"required": false
+		}
 	]
 }

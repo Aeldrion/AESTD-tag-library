@@ -1,13 +1,37 @@
 {
 	"description": "Foodstuffs obtained by cooking raw foodstuffs",
 	"values": [
-		"minecraft:baked_potato",
-		"minecraft:cooked_beef",
-		"minecraft:cooked_chicken",
-		"minecraft:cooked_cod",
-		"minecraft:cooked_mutton",
-		"minecraft:cooked_salmon",
-		"minecraft:cooked_porkchop",
-		"minecraft:cooked_rabbit"
+		{
+			"id": "minecraft:baked_potato",
+			"required": false
+		},
+		{
+			"id": "minecraft:cooked_beef",
+			"required": false
+		},
+		{
+			"id": "minecraft:cooked_chicken",
+			"required": false
+		},
+		{
+			"id": "minecraft:cooked_cod",
+			"required": false
+		},
+		{
+			"id": "minecraft:cooked_mutton",
+			"required": false
+		},
+		{
+			"id": "minecraft:cooked_salmon",
+			"required": false
+		},
+		{
+			"id": "minecraft:cooked_porkchop",
+			"required": false
+		},
+		{
+			"id": "minecraft:cooked_rabbit",
+			"required": false
+		}
 	]
 }

@@ -1,18 +1,49 @@
 {
 	"description": "Undead mobs, hurt by Instant Healing effects, take more damage when attacked with weapons with the Smite enchantment, and not attacked by withers",
 	"values": [
-		"minecraft:drowned",
-		"minecraft:zombie",
-		"minecraft:husk",
-		"minecraft:zombie_villager",
-
-		"minecraft:skeleton",
-		"minecraft:stray",
-		
-		"minecraft:wither",
-		"minecraft:phantom",
-		"minecraft:skeleton_horse",
-		"minecraft:zombified_piglin",
-		"minecraft:drowned"
+		{
+			"id": "minecraft:drowned",
+			"required": false
+		},
+		{
+			"id": "minecraft:zombie",
+			"required": false
+		},
+		{
+			"id": "minecraft:husk",
+			"required": false
+		},
+		{
+			"id": "minecraft:zombie_villager",
+			"required": false
+		},
+		{
+			"id": "minecraft:skeleton",
+			"required": false
+		},
+		{
+			"id": "minecraft:stray",
+			"required": false
+		},
+		{
+			"id": "minecraft:wither",
+			"required": false
+		},
+		{
+			"id": "minecraft:phantom",
+			"required": false
+		},
+		{
+			"id": "minecraft:skeleton_horse",
+			"required": false
+		},
+		{
+			"id": "minecraft:zombified_piglin",
+			"required": false
+		},
+		{
+			"id": "minecraft:drowned",
+			"required": false
+		}
 	]
 }

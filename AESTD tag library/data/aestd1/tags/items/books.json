@@ -1,9 +1,21 @@
 {
 	"description": "Arbitrary. Book-type items",
 	"values": [
-		"minecraft:book",
-		"minecraft:writable_book",
-		"minecraft:written_book",
-		"minecraft:enchanted_book"
+		{
+			"id": "minecraft:book",
+			"required": false
+		},
+		{
+			"id": "minecraft:writable_book",
+			"required": false
+		},
+		{
+			"id": "minecraft:written_book",
+			"required": false
+		},
+		{
+			"id": "minecraft:enchanted_book",
+			"required": false
+		}
 	]
 }

@@ -1,1 +1,1 @@
-{"description":"Illagers","values":["minecraft:illusioner","minecraft:vindicator","minecraft:evoker","minecraft:pillager"]}
+{"description":"Illagers","values":[{"id":"minecraft:illusioner","required":false},{"id":"minecraft:vindicator","required":false},{"id":"minecraft:evoker","required":false},{"id":"minecraft:pillager","required":false}]}

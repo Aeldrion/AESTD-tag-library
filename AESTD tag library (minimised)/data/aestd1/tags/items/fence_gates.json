@@ -1,1 +1,1 @@
-{"description":"All fence gates","values":["#aestd1:flammable_fence_gates","minecraft:crimson_fence_gate","minecraft:warped_fence_gate"]}
+{"description":"All fence gates","values":[{"id":"#aestd1:flammable_fence_gates","required":false},{"id":"minecraft:crimson_fence_gate","required":false},{"id":"minecraft:warped_fence_gate","required":false}]}

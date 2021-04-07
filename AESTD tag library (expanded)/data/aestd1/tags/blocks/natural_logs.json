@@ -1,14 +1,37 @@
 {
 	"description": "Logs and stems that generate naturally, excluding stripped logs and wood (bark) blocks",
 	"values": [
-		"minecraft:oak_log",
-		"minecraft:birch_log",
-		"minecraft:spruce_log",
-		"minecraft:dark_oak_log",
-		"minecraft:acacia_log",
-		"minecraft:jungle_log",
-
-		"minecraft:crimson_stem",
-		"minecraft:warped_stem"
+		{
+			"id": "minecraft:oak_log",
+			"required": false
+		},
+		{
+			"id": "minecraft:birch_log",
+			"required": false
+		},
+		{
+			"id": "minecraft:spruce_log",
+			"required": false
+		},
+		{
+			"id": "minecraft:dark_oak_log",
+			"required": false
+		},
+		{
+			"id": "minecraft:acacia_log",
+			"required": false
+		},
+		{
+			"id": "minecraft:jungle_log",
+			"required": false
+		},
+		{
+			"id": "minecraft:crimson_stem",
+			"required": false
+		},
+		{
+			"id": "minecraft:warped_stem",
+			"required": false
+		}
 	]
 }

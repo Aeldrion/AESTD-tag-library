@@ -1,12 +1,29 @@
 {
 	"description": "Blocks that can deal damage when the player touches them, does not include sweet berry bushes which only deal damage when the player is moving",
 	"values": [
-		"#minecraft:campfires",
-		
-		"minecraft:cactus",
-		"minecraft:fire",
-		"minecraft:lava",
-		"minecraft:magma_block",
-		"minecraft:soul_fire"
+		{
+			"id": "#minecraft:campfires",
+			"required": false
+		},
+		{
+			"id": "minecraft:cactus",
+			"required": false
+		},
+		{
+			"id": "minecraft:fire",
+			"required": false
+		},
+		{
+			"id": "minecraft:lava",
+			"required": false
+		},
+		{
+			"id": "minecraft:magma_block",
+			"required": false
+		},
+		{
+			"id": "minecraft:soul_fire",
+			"required": false
+		}
 	]
 }

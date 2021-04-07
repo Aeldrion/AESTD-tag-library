@@ -1,7 +1,13 @@
 {
 	"description": "Boats and minecarts",
 	"values": [
-		"minecraft:boat",
-		"minecraft:minecart"
+		{
+			"id": "minecraft:boat",
+			"required": false
+		},
+		{
+			"id": "minecraft:minecart",
+			"required": false
+		}
 	]
 }

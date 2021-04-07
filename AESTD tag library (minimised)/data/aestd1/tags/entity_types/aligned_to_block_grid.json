@@ -1,1 +1,1 @@
-{"description":"Entities that snap to the block grid unless they are another entity's passenger","values":["minecraft:shulker","minecraft:painting","minecraft:item_frame","minecraft:leash_knot"]}
+{"description":"Entities that snap to the block grid unless they are another entity's passenger","values":[{"id":"minecraft:shulker","required":false},{"id":"minecraft:painting","required":false},{"id":"minecraft:item_frame","required":false},{"id":"minecraft:leash_knot","required":false}]}

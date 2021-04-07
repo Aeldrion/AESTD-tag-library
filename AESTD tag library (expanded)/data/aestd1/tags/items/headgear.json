@@ -1,20 +1,57 @@
 {
 	"description": "Everything that can be worn on the head slot without the use of commands",
 	"values": [
-		"minecraft:leather_helmet",
-		"minecraft:golden_helmet",
-		"minecraft:chainmail_helmet",
-		"minecraft:iron_helmet",
-		"minecraft:diamond_helmet",
-		"minecraft:turtle_helmet",
-		
-		"minecraft:skeleton_skull",
-		"minecraft:wither_skeleton_skull",
-		"minecraft:zombie_head",
-		"minecraft:player_head",
-		"minecraft:creeper_head",
-		"minecraft:dragon_head",
-		
-		"minecraft:carved_pumpkin"
+		{
+			"id": "minecraft:leather_helmet",
+			"required": false
+		},
+		{
+			"id": "minecraft:golden_helmet",
+			"required": false
+		},
+		{
+			"id": "minecraft:chainmail_helmet",
+			"required": false
+		},
+		{
+			"id": "minecraft:iron_helmet",
+			"required": false
+		},
+		{
+			"id": "minecraft:diamond_helmet",
+			"required": false
+		},
+		{
+			"id": "minecraft:turtle_helmet",
+			"required": false
+		},
+		{
+			"id": "minecraft:skeleton_skull",
+			"required": false
+		},
+		{
+			"id": "minecraft:wither_skeleton_skull",
+			"required": false
+		},
+		{
+			"id": "minecraft:zombie_head",
+			"required": false
+		},
+		{
+			"id": "minecraft:player_head",
+			"required": false
+		},
+		{
+			"id": "minecraft:creeper_head",
+			"required": false
+		},
+		{
+			"id": "minecraft:dragon_head",
+			"required": false
+		},
+		{
+			"id": "minecraft:carved_pumpkin",
+			"required": false
+		}
 	]
 }

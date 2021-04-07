@@ -1,7 +1,13 @@
 {
 	"description": "Campfires, same as the #minecraft:campfires block tag",
 	"values": [
-		"minecraft:campfire",
-		"minecraft:soul_campfire"
+		{
+			"id": "minecraft:campfire",
+			"required": false
+		},
+		{
+			"id": "minecraft:soul_campfire",
+			"required": false
+		}
 	]
 }

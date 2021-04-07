@@ -1,14 +1,37 @@
 {
 	"description": "Stripped wood (bark) blocks and stripped hyphae",
 	"values": [
-		"minecraft:stripped_oak_wood",
-		"minecraft:stripped_birch_wood",
-		"minecraft:stripped_spruce_wood",
-		"minecraft:stripped_dark_oak_wood",
-		"minecraft:stripped_acacia_wood",
-		"minecraft:stripped_jungle_wood",
-		
-		"minecraft:stripped_crimson_hyphae",
-		"minecraft:stripped_warped_hyphae"
+		{
+			"id": "minecraft:stripped_oak_wood",
+			"required": false
+		},
+		{
+			"id": "minecraft:stripped_birch_wood",
+			"required": false
+		},
+		{
+			"id": "minecraft:stripped_spruce_wood",
+			"required": false
+		},
+		{
+			"id": "minecraft:stripped_dark_oak_wood",
+			"required": false
+		},
+		{
+			"id": "minecraft:stripped_acacia_wood",
+			"required": false
+		},
+		{
+			"id": "minecraft:stripped_jungle_wood",
+			"required": false
+		},
+		{
+			"id": "minecraft:stripped_crimson_hyphae",
+			"required": false
+		},
+		{
+			"id": "minecraft:stripped_warped_hyphae",
+			"required": false
+		}
 	]
 }

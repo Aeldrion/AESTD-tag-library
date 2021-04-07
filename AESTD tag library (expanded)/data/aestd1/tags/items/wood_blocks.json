@@ -1,13 +1,37 @@
 {
 	"description": "Wood (bark) blocks and hyphae, not including stripped variants, not to be confused with #non_flammable_wood and #aestd1:flammable_wood which include buttons, fences, etc.",
 	"values": [
-		"minecraft:oak_wood",
-		"minecraft:birch_wood",
-		"minecraft:spruce_wood",
-		"minecraft:dark_oak_wood",
-		"minecraft:acacia_wood",
-		"minecraft:jungle_wood",
-		"minecraft:crimson_hyphae",
-		"minecraft:warped_hyphae"
+		{
+			"id": "minecraft:oak_wood",
+			"required": false
+		},
+		{
+			"id": "minecraft:birch_wood",
+			"required": false
+		},
+		{
+			"id": "minecraft:spruce_wood",
+			"required": false
+		},
+		{
+			"id": "minecraft:dark_oak_wood",
+			"required": false
+		},
+		{
+			"id": "minecraft:acacia_wood",
+			"required": false
+		},
+		{
+			"id": "minecraft:jungle_wood",
+			"required": false
+		},
+		{
+			"id": "minecraft:crimson_hyphae",
+			"required": false
+		},
+		{
+			"id": "minecraft:warped_hyphae",
+			"required": false
+		}
 	]
 }

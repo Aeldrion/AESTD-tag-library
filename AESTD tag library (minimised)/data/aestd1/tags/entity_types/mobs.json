@@ -1,1 +1,1 @@
-{"description":"All mob entities","values":["#aestd1:passive","#aestd1:neutral","#aestd1:hostile"]}
+{"description":"All mob entities","values":[{"id":"#aestd1:passive","required":false},{"id":"#aestd1:neutral","required":false},{"id":"#aestd1:hostile","required":false}]}

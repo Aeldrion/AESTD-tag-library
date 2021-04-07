@@ -1,1 +1,1 @@
-{"description":"Hoes","values":["minecraft:wooden_hoe","minecraft:stone_hoe","minecraft:iron_hoe","minecraft:golden_hoe","minecraft:diamond_hoe"]}
+{"description":"Hoes","values":[{"id":"minecraft:wooden_hoe","required":false},{"id":"minecraft:stone_hoe","required":false},{"id":"minecraft:iron_hoe","required":false},{"id":"minecraft:golden_hoe","required":false},{"id":"minecraft:diamond_hoe","required":false}]}

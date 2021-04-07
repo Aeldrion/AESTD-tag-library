@@ -1,9 +1,21 @@
 {
 	"description": "Golden tools, not including golden swords",
 	"values": [
-		"minecraft:golden_axe",
-		"minecraft:golden_hoe",
-		"minecraft:golden_pickaxe",
-		"minecraft:golden_shovel"
+		{
+			"id": "minecraft:golden_axe",
+			"required": false
+		},
+		{
+			"id": "minecraft:golden_hoe",
+			"required": false
+		},
+		{
+			"id": "minecraft:golden_pickaxe",
+			"required": false
+		},
+		{
+			"id": "minecraft:golden_shovel",
+			"required": false
+		}
 	]
 }

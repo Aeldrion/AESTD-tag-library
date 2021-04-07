@@ -1,12 +1,33 @@
 {
 	"description": "Wearable items that grant extra armour",
 	"values": [
-		"#aestd1:chainmail_armor",
-		"#aestd1:diamond_armor",
-		"#aestd1:golden_armor",
-		"#aestd1:iron_armor",
-		"#aestd1:leather_armor",
-		"#aestd1:netherite_armor",
-		"minecraft:turtle_helmet"
+		{
+			"id": "#aestd1:chainmail_armor",
+			"required": false
+		},
+		{
+			"id": "#aestd1:diamond_armor",
+			"required": false
+		},
+		{
+			"id": "#aestd1:golden_armor",
+			"required": false
+		},
+		{
+			"id": "#aestd1:iron_armor",
+			"required": false
+		},
+		{
+			"id": "#aestd1:leather_armor",
+			"required": false
+		},
+		{
+			"id": "#aestd1:netherite_armor",
+			"required": false
+		},
+		{
+			"id": "minecraft:turtle_helmet",
+			"required": false
+		}
 	]
 }

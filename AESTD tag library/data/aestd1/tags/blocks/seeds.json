@@ -1,12 +1,33 @@
 {
 	"description": "Seeds that can be planted on farmland or soul sand/soul soil",
 	"values": [
-		"minecraft:wheat",
-		"minecraft:carrots",
-		"minecraft:potatoes",
-		"minecraft:beetroots",
-		"minecraft:pumpkin_stem",
-		"minecraft:melon_stem",
-		"minecraft:nether_wart"
+		{
+			"id": "minecraft:wheat",
+			"required": false
+		},
+		{
+			"id": "minecraft:carrots",
+			"required": false
+		},
+		{
+			"id": "minecraft:potatoes",
+			"required": false
+		},
+		{
+			"id": "minecraft:beetroots",
+			"required": false
+		},
+		{
+			"id": "minecraft:pumpkin_stem",
+			"required": false
+		},
+		{
+			"id": "minecraft:melon_stem",
+			"required": false
+		},
+		{
+			"id": "minecraft:nether_wart",
+			"required": false
+		}
 	]
 }

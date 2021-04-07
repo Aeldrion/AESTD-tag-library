@@ -1,1 +1,1 @@
-{"description":"Blocks with no visible model","values":["minecraft:barrier","minecraft:structure_void","#aestd1:air"]}
+{"description":"Blocks with no visible model","values":[{"id":"minecraft:barrier","required":false},{"id":"minecraft:structure_void","required":false},{"id":"#aestd1:air","required":false}]}

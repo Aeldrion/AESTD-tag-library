@@ -1,1 +1,1 @@
-{"description":"Stripped stems and hyphae","values":["#aestd1:stripped_stems","#aestd1:stripped_hyphae"]}
+{"description":"Stripped stems and hyphae","values":[{"id":"#aestd1:stripped_stems","required":false},{"id":"#aestd1:stripped_hyphae","required":false}]}

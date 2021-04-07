@@ -1,1 +1,1 @@
-{"description":"Warped wart blocks and nether wart blocks, same as the #minecraft:wart_blocks block tag","values":["minecraft:nether_wart_block","minecraft:warped_wart_block"]}
+{"description":"Warped wart blocks and nether wart blocks, same as the #minecraft:wart_blocks block tag","values":[{"id":"minecraft:nether_wart_block","required":false},{"id":"minecraft:warped_wart_block","required":false}]}

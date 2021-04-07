@@ -1,7 +1,13 @@
 {
 	"description": "Hoglin-type mobs",
 	"values": [
-		"minecraft:hoglin",
-		"minecraft:zoglin"
+		{
+			"id": "minecraft:hoglin",
+			"required": false
+		},
+		{
+			"id": "minecraft:zoglin",
+			"required": false
+		}
 	]
 }

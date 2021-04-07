@@ -1,8 +1,17 @@
 {
 	"description": "Entities that extend the LivingBase class (mobs, players and armour stands). Living base entities can have effects and can be affected by team",
 	"values": [
-		"#aestd1:mobs",
-		"minecraft:player",
-		"minecraft:armor_stand"
+		{
+			"id": "#aestd1:mobs",
+			"required": false
+		},
+		{
+			"id": "minecraft:player",
+			"required": false
+		},
+		{
+			"id": "minecraft:armor_stand",
+			"required": false
+		}
 	]
 }

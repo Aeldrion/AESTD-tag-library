@@ -1,1 +1,1 @@
-{"description":"Transparent blocks whose models support translucency","values":["#aestd1:glass","#aestd1:glass_panes","minecraft:tripwire","minecraft:nether_portal"]}
+{"description":"Transparent blocks whose models support translucency","values":[{"id":"#aestd1:glass","required":false},{"id":"#aestd1:glass_panes","required":false},{"id":"minecraft:tripwire","required":false},{"id":"minecraft:nether_portal","required":false}]}

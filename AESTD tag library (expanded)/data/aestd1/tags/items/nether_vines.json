@@ -1,7 +1,13 @@
 {
 	"description": "Twisting vines and weeping vines",
 	"values": [
-		"minecraft:twisting_vines",
-		"minecraft:weeping_vines"
+		{
+			"id": "minecraft:twisting_vines",
+			"required": false
+		},
+		{
+			"id": "minecraft:weeping_vines",
+			"required": false
+		}
 	]
 }

@@ -1,7 +1,13 @@
 {
 	"description": "Logs and stems that generate naturally, excluding stripped logs and wood (bark) blocks",
 	"values": [
-		"#aestd1:natural_overworld_logs",
-		"#aestd1:natural_stems"
+		{
+			"id": "#aestd1:natural_overworld_logs",
+			"required": false
+		},
+		{
+			"id": "#aestd1:natural_stems",
+			"required": false
+		}
 	]
 }

@@ -1,9 +1,21 @@
 {
 	"description": "Zombie-type mobs, not including zombified piglins",
 	"values": [
-		"minecraft:drowned",
-		"minecraft:zombie",
-		"minecraft:husk",
-		"minecraft:zombie_villager"
+		{
+			"id": "minecraft:drowned",
+			"required": false
+		},
+		{
+			"id": "minecraft:zombie",
+			"required": false
+		},
+		{
+			"id": "minecraft:husk",
+			"required": false
+		},
+		{
+			"id": "minecraft:zombie_villager",
+			"required": false
+		}
 	]
 }

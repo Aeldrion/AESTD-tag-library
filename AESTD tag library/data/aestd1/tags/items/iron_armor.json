@@ -1,9 +1,21 @@
 {
 	"description": "Iron armour, not including iron horse armour",
 	"values": [
-		"minecraft:iron_boots",
-		"minecraft:iron_leggings",
-		"minecraft:iron_chestplate",
-		"minecraft:iron_helmet"
+		{
+			"id": "minecraft:iron_boots",
+			"required": false
+		},
+		{
+			"id": "minecraft:iron_leggings",
+			"required": false
+		},
+		{
+			"id": "minecraft:iron_chestplate",
+			"required": false
+		},
+		{
+			"id": "minecraft:iron_helmet",
+			"required": false
+		}
 	]
 }

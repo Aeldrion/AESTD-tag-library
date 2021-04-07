@@ -1,11 +1,25 @@
 {
 	"description": "Blocks that cannot be mined or normally destroyed",
 	"values": [
-		"#aestd1:command_blocks",
-		
-		"minecraft:barrier",
-		"minecraft:bedrock",
-		"minecraft:end_portal_frame",
-		"minecraft:structure_block"
+		{
+			"id": "#aestd1:command_blocks",
+			"required": false
+		},
+		{
+			"id": "minecraft:barrier",
+			"required": false
+		},
+		{
+			"id": "minecraft:bedrock",
+			"required": false
+		},
+		{
+			"id": "minecraft:end_portal_frame",
+			"required": false
+		},
+		{
+			"id": "minecraft:structure_block",
+			"required": false
+		}
 	]
 }

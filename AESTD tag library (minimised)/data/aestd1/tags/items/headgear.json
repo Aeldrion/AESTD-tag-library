@@ -1,1 +1,1 @@
-{"description":"Everything that can be worn on the head slot without the use of commands","values":["#aestd1:helmets","#aestd1:heads","minecraft:carved_pumpkin"]}
+{"description":"Everything that can be worn on the head slot without the use of commands","values":[{"id":"#aestd1:helmets","required":false},{"id":"#aestd1:heads","required":false},{"id":"minecraft:carved_pumpkin","required":false}]}

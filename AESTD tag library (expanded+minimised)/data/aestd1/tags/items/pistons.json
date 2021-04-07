@@ -1,1 +1,1 @@
-{"description":"Pistons","values":["minecraft:piston","minecraft:sticky_piston"]}
+{"description":"Pistons","values":[{"id":"minecraft:piston","required":false},{"id":"minecraft:sticky_piston","required":false}]}

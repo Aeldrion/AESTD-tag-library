@@ -1,1 +1,1 @@
-{"description":"Boats and minecarts","values":["minecraft:boat","minecraft:minecart"]}
+{"description":"Boats and minecarts","values":[{"id":"minecraft:boat","required":false},{"id":"minecraft:minecart","required":false}]}

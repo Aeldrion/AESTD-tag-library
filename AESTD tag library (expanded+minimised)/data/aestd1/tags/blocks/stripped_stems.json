@@ -1,1 +1,1 @@
-{"description":"Stripped stems, not including stripped hyphae","values":["minecraft:stripped_crimson_stem","minecraft:stripped_warped_stem"]}
+{"description":"Stripped stems, not including stripped hyphae","values":[{"id":"minecraft:stripped_crimson_stem","required":false},{"id":"minecraft:stripped_warped_stem","required":false}]}

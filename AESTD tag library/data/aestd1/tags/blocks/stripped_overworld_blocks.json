@@ -1,7 +1,13 @@
 {
 	"description": "Stripped overworld logs and wood",
 	"values": [
-		"#aestd1:stripped_overworld_logs",
-		"#aestd1:stripped_overworld_wood"
+		{
+			"id": "#aestd1:stripped_overworld_logs",
+			"required": false
+		},
+		{
+			"id": "#aestd1:stripped_overworld_wood",
+			"required": false
+		}
 	]
 }

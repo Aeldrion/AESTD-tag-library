@@ -1,10 +1,25 @@
 {
 	"description": "Blocks that take two tiles of space when placed, not including banners whose hitbox is contained in a single box and which comprise of a single block",
 	"values": [
-		"#minecraft:beds",
-		"#minecraft:tall_flowers",
-		"#minecraft:doors",
-		"minecraft:large_fern",
-		"minecraft:tall_grass"
+		{
+			"id": "#minecraft:beds",
+			"required": false
+		},
+		{
+			"id": "#minecraft:tall_flowers",
+			"required": false
+		},
+		{
+			"id": "#minecraft:doors",
+			"required": false
+		},
+		{
+			"id": "minecraft:large_fern",
+			"required": false
+		},
+		{
+			"id": "minecraft:tall_grass",
+			"required": false
+		}
 	]
 }

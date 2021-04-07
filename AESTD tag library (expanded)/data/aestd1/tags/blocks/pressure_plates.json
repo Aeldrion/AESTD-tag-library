@@ -1,16 +1,45 @@
 {
 	"description": "Pressure plates",
 	"values": [
-		"minecraft:oak_pressure_plate",
-		"minecraft:birch_pressure_plate",
-		"minecraft:spruce_pressure_plate",
-		"minecraft:dark_oak_pressure_plate",
-		"minecraft:acacia_pressure_plate",
-		"minecraft:jungle_pressure_plate",
-		
-		"minecraft:polished_blackstone_pressure_plate",
-		"minecraft:stone_pressure_plate",
-		"minecraft:heavy_weighted_pressure_plate",
-		"minecraft:light_weighted_pressure_plate"
+		{
+			"id": "minecraft:oak_pressure_plate",
+			"required": false
+		},
+		{
+			"id": "minecraft:birch_pressure_plate",
+			"required": false
+		},
+		{
+			"id": "minecraft:spruce_pressure_plate",
+			"required": false
+		},
+		{
+			"id": "minecraft:dark_oak_pressure_plate",
+			"required": false
+		},
+		{
+			"id": "minecraft:acacia_pressure_plate",
+			"required": false
+		},
+		{
+			"id": "minecraft:jungle_pressure_plate",
+			"required": false
+		},
+		{
+			"id": "minecraft:polished_blackstone_pressure_plate",
+			"required": false
+		},
+		{
+			"id": "minecraft:stone_pressure_plate",
+			"required": false
+		},
+		{
+			"id": "minecraft:heavy_weighted_pressure_plate",
+			"required": false
+		},
+		{
+			"id": "minecraft:light_weighted_pressure_plate",
+			"required": false
+		}
 	]
 }

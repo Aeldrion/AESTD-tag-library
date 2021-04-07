@@ -1,11 +1,29 @@
 {
 	"description": "Fences that can burn (i.e. fences built from overworld trees)",
 	"values": [
-		"minecraft:acacia_fence",
-		"minecraft:birch_fence",
-		"minecraft:dark_oak_fence",
-		"minecraft:jungle_fence",
-		"minecraft:oak_fence",
-		"minecraft:spruce_fence"
+		{
+			"id": "minecraft:acacia_fence",
+			"required": false
+		},
+		{
+			"id": "minecraft:birch_fence",
+			"required": false
+		},
+		{
+			"id": "minecraft:dark_oak_fence",
+			"required": false
+		},
+		{
+			"id": "minecraft:jungle_fence",
+			"required": false
+		},
+		{
+			"id": "minecraft:oak_fence",
+			"required": false
+		},
+		{
+			"id": "minecraft:spruce_fence",
+			"required": false
+		}
 	]
 }

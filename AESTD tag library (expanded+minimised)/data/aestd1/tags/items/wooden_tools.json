@@ -1,1 +1,1 @@
-{"description":"Wooden tools, not including swords","values":["minecraft:wooden_axe","minecraft:wooden_hoe","minecraft:wooden_pickaxe","minecraft:wooden_shovel"]}
+{"description":"Wooden tools, not including swords","values":[{"id":"minecraft:wooden_axe","required":false},{"id":"minecraft:wooden_hoe","required":false},{"id":"minecraft:wooden_pickaxe","required":false},{"id":"minecraft:wooden_shovel","required":false}]}

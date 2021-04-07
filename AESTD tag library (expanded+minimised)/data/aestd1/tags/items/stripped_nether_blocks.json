@@ -1,1 +1,1 @@
-{"description":"Stripped stems and hyphae","values":["minecraft:stripped_crimson_stem","minecraft:stripped_warped_stem","minecraft:stripped_crimson_hyphae","minecraft:stripped_warped_hyphae"]}
+{"description":"Stripped stems and hyphae","values":[{"id":"minecraft:stripped_crimson_stem","required":false},{"id":"minecraft:stripped_warped_stem","required":false},{"id":"minecraft:stripped_crimson_hyphae","required":false},{"id":"minecraft:stripped_warped_hyphae","required":false}]}

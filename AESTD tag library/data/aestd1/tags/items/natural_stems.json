@@ -1,7 +1,13 @@
 {
 	"description": "Stems that generate naturally, excluding stripped stems and hyphae",
 	"values": [
-		"minecraft:crimson_stem",
-		"minecraft:warped_stem"
+		{
+			"id": "minecraft:crimson_stem",
+			"required": false
+		},
+		{
+			"id": "minecraft:warped_stem",
+			"required": false
+		}
 	]
 }

@@ -1,21 +1,69 @@
 {
 	"description": "All sixteen colours of banners, when they are not hanging on a wall",
 	"values": [
-		"minecraft:white_banner",
-		"minecraft:orange_banner",
-		"minecraft:magenta_banner",
-		"minecraft:light_blue_banner",
-		"minecraft:yellow_banner",
-		"minecraft:lime_banner",
-		"minecraft:pink_banner",
-		"minecraft:gray_banner",
-		"minecraft:light_gray_banner",
-		"minecraft:cyan_banner",
-		"minecraft:purple_banner",
-		"minecraft:blue_banner",
-		"minecraft:brown_banner",
-		"minecraft:green_banner",
-		"minecraft:red_banner",
-		"minecraft:black_banner"
+		{
+			"id": "minecraft:white_banner",
+			"required": false
+		},
+		{
+			"id": "minecraft:orange_banner",
+			"required": false
+		},
+		{
+			"id": "minecraft:magenta_banner",
+			"required": false
+		},
+		{
+			"id": "minecraft:light_blue_banner",
+			"required": false
+		},
+		{
+			"id": "minecraft:yellow_banner",
+			"required": false
+		},
+		{
+			"id": "minecraft:lime_banner",
+			"required": false
+		},
+		{
+			"id": "minecraft:pink_banner",
+			"required": false
+		},
+		{
+			"id": "minecraft:gray_banner",
+			"required": false
+		},
+		{
+			"id": "minecraft:light_gray_banner",
+			"required": false
+		},
+		{
+			"id": "minecraft:cyan_banner",
+			"required": false
+		},
+		{
+			"id": "minecraft:purple_banner",
+			"required": false
+		},
+		{
+			"id": "minecraft:blue_banner",
+			"required": false
+		},
+		{
+			"id": "minecraft:brown_banner",
+			"required": false
+		},
+		{
+			"id": "minecraft:green_banner",
+			"required": false
+		},
+		{
+			"id": "minecraft:red_banner",
+			"required": false
+		},
+		{
+			"id": "minecraft:black_banner",
+			"required": false
+		}
 	]
 }

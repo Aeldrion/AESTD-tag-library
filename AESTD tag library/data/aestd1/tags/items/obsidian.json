@@ -1,7 +1,13 @@
 {
 	"description": "Obsidian and crying obsidian",
 	"values": [
-		"minecraft:obsidian",
-		"minecraft:crying_obsidian"
+		{
+			"id": "minecraft:obsidian",
+			"required": false
+		},
+		{
+			"id": "minecraft:crying_obsidian",
+			"required": false
+		}
 	]
 }

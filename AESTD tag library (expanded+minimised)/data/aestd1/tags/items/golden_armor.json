@@ -1,1 +1,1 @@
-{"description":"Golden armour, not including golden horse armour","values":["minecraft:golden_boots","minecraft:golden_leggings","minecraft:golden_chestplate","minecraft:golden_helmet"]}
+{"description":"Golden armour, not including golden horse armour","values":[{"id":"minecraft:golden_boots","required":false},{"id":"minecraft:golden_leggings","required":false},{"id":"minecraft:golden_chestplate","required":false},{"id":"minecraft:golden_helmet","required":false}]}

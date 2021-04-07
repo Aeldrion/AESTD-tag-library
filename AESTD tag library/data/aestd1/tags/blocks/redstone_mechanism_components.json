@@ -1,18 +1,49 @@
 {
 	"description": "Blocks that redstone can interact with",
 	"values": [
-		"#aestd1:command_blocks",
-		"#aestd1:fence_gates",
-
-		"#minecraft:doors",
-		"#minecraft:rails",
-		
-		"minecraft:dispenser",
-		"minecraft:dropper",
-		"minecraft:hopper",
-		"minecraft:note_block",
-		"minecraft:piston",
-		"minecraft:redstone_lamp",
-		"minecraft:tnt"
+		{
+			"id": "#aestd1:command_blocks",
+			"required": false
+		},
+		{
+			"id": "#aestd1:fence_gates",
+			"required": false
+		},
+		{
+			"id": "#minecraft:doors",
+			"required": false
+		},
+		{
+			"id": "#minecraft:rails",
+			"required": false
+		},
+		{
+			"id": "minecraft:dispenser",
+			"required": false
+		},
+		{
+			"id": "minecraft:dropper",
+			"required": false
+		},
+		{
+			"id": "minecraft:hopper",
+			"required": false
+		},
+		{
+			"id": "minecraft:note_block",
+			"required": false
+		},
+		{
+			"id": "minecraft:piston",
+			"required": false
+		},
+		{
+			"id": "minecraft:redstone_lamp",
+			"required": false
+		},
+		{
+			"id": "minecraft:tnt",
+			"required": false
+		}
 	]
 }

@@ -1,7 +1,13 @@
 {
 	"description": "All items, including air",
 	"values": [
-		"#aestd1:all_but_air",
-		"minecraft:air"
+		{
+			"id": "#aestd1:all_but_air",
+			"required": false
+		},
+		{
+			"id": "minecraft:air",
+			"required": false
+		}
 	]
 }

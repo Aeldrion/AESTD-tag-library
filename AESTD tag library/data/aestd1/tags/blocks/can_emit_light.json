@@ -1,14 +1,33 @@
 {
 	"description": "Blocks that can emit light; if a block is in this tag but not in #aestd1:emit_light, test for the [lit=true] block state to tell whether it is currently emitting light or not",
 	"values": [
-		"#aestd1:emit_light",
-		"#aestd1:furnaces",
-		
-		"#minecraft:campfires",
-
-		"minecraft:redstone_lamp",
-		"minecraft:redstone_ore",
-		"minecraft:redstone_torch",
-		"minecraft:redstone_wall_torch"
+		{
+			"id": "#aestd1:emit_light",
+			"required": false
+		},
+		{
+			"id": "#aestd1:furnaces",
+			"required": false
+		},
+		{
+			"id": "#minecraft:campfires",
+			"required": false
+		},
+		{
+			"id": "minecraft:redstone_lamp",
+			"required": false
+		},
+		{
+			"id": "minecraft:redstone_ore",
+			"required": false
+		},
+		{
+			"id": "minecraft:redstone_torch",
+			"required": false
+		},
+		{
+			"id": "minecraft:redstone_wall_torch",
+			"required": false
+		}
 	]
 }

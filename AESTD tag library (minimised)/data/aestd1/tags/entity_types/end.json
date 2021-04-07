@@ -1,1 +1,1 @@
-{"description":"Mobs that can spawn in the end","values":["minecraft:enderman","minecraft:ender_dragon","minecraft:endermite","minecraft:shulker"]}
+{"description":"Mobs that can spawn in the end","values":[{"id":"minecraft:enderman","required":false},{"id":"minecraft:ender_dragon","required":false},{"id":"minecraft:endermite","required":false},{"id":"minecraft:shulker","required":false}]}

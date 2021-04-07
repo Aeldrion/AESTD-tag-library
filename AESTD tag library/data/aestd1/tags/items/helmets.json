@@ -1,11 +1,29 @@
 {
 	"description": "Helmets, including turtle helmet but not including other types of headgear (heads)",
 	"values": [
-		"minecraft:leather_helmet",
-		"minecraft:golden_helmet",
-		"minecraft:chainmail_helmet",
-		"minecraft:iron_helmet",
-		"minecraft:diamond_helmet",
-		"minecraft:turtle_helmet"
+		{
+			"id": "minecraft:leather_helmet",
+			"required": false
+		},
+		{
+			"id": "minecraft:golden_helmet",
+			"required": false
+		},
+		{
+			"id": "minecraft:chainmail_helmet",
+			"required": false
+		},
+		{
+			"id": "minecraft:iron_helmet",
+			"required": false
+		},
+		{
+			"id": "minecraft:diamond_helmet",
+			"required": false
+		},
+		{
+			"id": "minecraft:turtle_helmet",
+			"required": false
+		}
 	]
 }

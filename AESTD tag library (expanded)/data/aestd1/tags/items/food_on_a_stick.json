@@ -1,7 +1,13 @@
 {
 	"description": "Items used to bait vehicle mobs",
 	"values": [
-		"minecraft:carrot_on_a_stick",
-		"minecraft:warped_fungus_on_a_stick"
+		{
+			"id": "minecraft:carrot_on_a_stick",
+			"required": false
+		},
+		{
+			"id": "minecraft:warped_fungus_on_a_stick",
+			"required": false
+		}
 	]
 }

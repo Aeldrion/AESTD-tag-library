@@ -1,11 +1,25 @@
 {
 	"description": "Blocks that slow down players and mobs attempting to go through them",
 	"values": [
-		"minecraft:water",
-		"minecraft:bubble_column",
-		"minecraft:lava",
-		
-		"minecraft:cobweb",
-		"minecraft:sweet_berry_bush"
+		{
+			"id": "minecraft:water",
+			"required": false
+		},
+		{
+			"id": "minecraft:bubble_column",
+			"required": false
+		},
+		{
+			"id": "minecraft:lava",
+			"required": false
+		},
+		{
+			"id": "minecraft:cobweb",
+			"required": false
+		},
+		{
+			"id": "minecraft:sweet_berry_bush",
+			"required": false
+		}
 	]
 }

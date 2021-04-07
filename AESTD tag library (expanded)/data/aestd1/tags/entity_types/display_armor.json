@@ -1,17 +1,45 @@
 {
 	"description": "Mobs who can display the armour they wear, excluding horse armour",
 	"values": [
-		"minecraft:armor_stand",
-		"minecraft:piglin",
-		"minecraft:zombified_piglin",
-		"minecraft:piglin_brute",
-		
-		"minecraft:skeleton",
-		"minecraft:stray",
-
-		"minecraft:drowned",
-		"minecraft:zombie",
-		"minecraft:husk",
-		"minecraft:zombie_villager"
+		{
+			"id": "minecraft:armor_stand",
+			"required": false
+		},
+		{
+			"id": "minecraft:piglin",
+			"required": false
+		},
+		{
+			"id": "minecraft:zombified_piglin",
+			"required": false
+		},
+		{
+			"id": "minecraft:piglin_brute",
+			"required": false
+		},
+		{
+			"id": "minecraft:skeleton",
+			"required": false
+		},
+		{
+			"id": "minecraft:stray",
+			"required": false
+		},
+		{
+			"id": "minecraft:drowned",
+			"required": false
+		},
+		{
+			"id": "minecraft:zombie",
+			"required": false
+		},
+		{
+			"id": "minecraft:husk",
+			"required": false
+		},
+		{
+			"id": "minecraft:zombie_villager",
+			"required": false
+		}
 	]
 }

@@ -1,1 +1,1 @@
-{"description":"Blocks that slow down players and mobs attempting to go through them","values":["#aestd1:liquids","minecraft:cobweb","minecraft:sweet_berry_bush"]}
+{"description":"Blocks that slow down players and mobs attempting to go through them","values":[{"id":"#aestd1:liquids","required":false},{"id":"minecraft:cobweb","required":false},{"id":"minecraft:sweet_berry_bush","required":false}]}
