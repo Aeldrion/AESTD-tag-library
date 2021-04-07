@@ -1,5 +1,5 @@
 {
-	"conditions": "Items that can strip wood",
+	"description": "Items that can strip wood",
 	"values": [
 		"minecraft:wooden_axe",
 		"minecraft:stone_axe",

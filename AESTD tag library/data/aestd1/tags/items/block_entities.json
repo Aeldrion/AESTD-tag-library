@@ -1,5 +1,5 @@
 {
-	"conditions": "Items that place a block entity when used",
+	"description": "Items that place a block entity when used",
 	"values": [
 		"#aestd1:command_blocks",
 		"#aestd1:heads",

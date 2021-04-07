@@ -1,5 +1,5 @@
 {
-	"conditions": "Items that place a block entity when used",
+	"description": "Items that place a block entity when used",
 	"values": [
 		"minecraft:white_banner",
 		"minecraft:orange_banner",
