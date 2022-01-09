@@ -146,6 +146,10 @@
 			"required": false
 		},
 		{
+			"id": "minecraft:glow_berries",
+			"required": false
+		},
+		{
 			"id": "minecraft:honey_bottle",
 			"required": false
 		}
