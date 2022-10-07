@@ -1,3 +1,5 @@
+## Note: the AESTD tag library was last updated for Minecraft 1.16 and is no longer in development.
+
 # AESTD tag library
 
 A collection of data pack tags for use in other data packs.
