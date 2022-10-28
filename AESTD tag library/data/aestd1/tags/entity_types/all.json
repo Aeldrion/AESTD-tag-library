@@ -14,6 +14,10 @@
 			"required": false
 		},
 		{
+			"id": "minecraft:axolotl",
+			"required": false
+		},
+		{
 			"id": "minecraft:bat",
 			"required": false
 		},
@@ -158,6 +162,18 @@
 			"required": false
 		},
 		{
+			"id": "minecraft:glow_item_frame",
+			"required": false
+		},
+		{
+			"id": "minecraft:glow_squid",
+			"required": false
+		},
+		{
+			"id": "minecraft:goat",
+			"required": false
+		},
+		{
 			"id": "minecraft:guardian",
 			"required": false
 		},
@@ -211,6 +227,10 @@
 		},
 		{
 			"id": "minecraft:magma_cube",
+			"required": false
+		},
+		{
+			"id": "minecraft:marker",
 			"required": false
 		},
 		{
